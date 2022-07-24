@@ -12,6 +12,6 @@ Those features may change or get adjusted in the futre as the project progresses
 I had the general idea of the project in my mind but working on the project itself was delayed due to unusual heavy work load. I decided to document the progress 
 of the project in a chronological steps::
 
-07-24-22 
+ * 07-24-22 
 1. Reviewed some youtube virtual environment videos and I was able to create the virtual enviroment of the project
 2. Created gitignore folder using github python template
