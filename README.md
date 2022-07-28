@@ -7,6 +7,7 @@ My plan is to make the graduation project the first step towards a much bigger w
 Starting a graduation project for Code louisville May 22 class (Data Analysis-2). The project will include the following features hoping to meet or exede the requirement of a passing graduation project:
 
 1. Read TWO data sets in with an API or Import and combine 2 csv files
+ the first API is forex-python (https://pypi.org/project/forex-python/) where I get bitcoin data
 2. Clean data and perform a pandas merge
 3. Make a Tableau dashboard to display data
 4. Utilize a virtual environment
