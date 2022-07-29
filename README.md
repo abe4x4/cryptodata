@@ -85,7 +85,7 @@ My code is written using jupyter lab format, I wrote as much comments as possibl
 The project is simple but it is a work in progress and the first lego piece in a much bigger more advanced project that I am hoping to use the complete project as the graduation project of my blockchain developper bootcamp. <br>
 I would like to thankmy mentors for their great effort they made to help us. I liked their new innovative methods they used to present the material. I am also grateful to every person in Code Louisville staff
 
-<h4><b>MY IDEAS AND PLANS FOR FUTURE EXPANSIONS</b></h4><br>
+<h4><b>MY IDEAS AND PLANS FOR FUTURE EXPANSIONS</b></h4>
 <ol>
 <li>Studying and adding trading technical analysis indicators so the project become a smart and reliable crypto trading helper tool</li>
 <li>Adding automation features so the project can be used as a trading bot</li>
