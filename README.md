@@ -19,24 +19,57 @@ Make 3 matplotlib, pandas and seaborn visualizations to display data
 <h4>4. UTILIZE A VIRTUAL ENVIRONMENT</h4>
 I used the following code to create and use a virutal environment: <br>
 
-<blockquote>
 <code><br>
-#create environment named venv<br>
-python -m venv venv
+<i>#create environment named venv</i><br>
+python -m venv venv<br>
 
-#activate environment
-venv\scripts\activate
+<i>#activate environment</i><br>
+venv\scripts\activate.bat<br>
 
-install project packages and dependencies
+<i>#install project packages and dependencies</i><br>
 
-#create a requirements.txt file
-pip freeze > requirements.txt
+<i>#create a requirements.txt file</i><br>
+pip freeze > requirements.txt<br>
 
-#deactivate environment each time after working on the project
-deactivate
+<i>#deactivate environment each time after working on the project</i><br>
+deactivate<br>
  
 </code>
-</blockquote>
+<b>The content of requirements.txt file </b><br>
+bokeh==2.4.3<br>
+certifi==2022.6.15<br>
+charset-normalizer==2.1.0<br>
+cycler==0.11.0<br>
+DateTime==4.5<br>
+fonttools==4.34.4<br>
+forex-python==1.8<br>
+idna==3.3<br>
+Jinja2==3.1.2<br>
+kiwisolver==1.4.4<br>
+lxml==4.9.1<br>
+MarkupSafe==2.1<br>.1
+matplotlib==3.5.2<br>
+multitasking==0.0.11<br>
+numpy==1.23.1<br>
+packaging==21.3<br>
+pandas==1.4.3<br>
+Pillow==9.2.0<br>
+pyparsing==3.0.9<br>
+python-dateutil==2.8.2<br>
+pytz==2022.1<br>
+PyYAML==6.0<br>
+requests==2.28.1<br>
+scipy==1.8.1<br>
+seaborn==0.11.2<br>
+simplejson==3.17.6<br>
+six==1.16.0<br>
+stockstats==0.4.1<br>
+tornado==6.2<br>
+typing_extensions==4.3.0<br>
+urllib3==1.26.11<br>
+yfinance==0.1.74<br>
+zope.interface==5.4.0<br>
+
 
    
 Those features may change or get adjusted in the future as the project progresses, I will make sure to mention the changes if any in this readme file
