@@ -4,9 +4,11 @@
 
 
   <img src="assets/coinz.png" width="400">
-  <h1>CRYPTODATA</>
+  <br>
+<h1>CRYPTODATA</>
   
 </p>
+
 
 <h3>Introduction</h3>
 
