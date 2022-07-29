@@ -1,16 +1,43 @@
-# Cryptodata
+<h1>CRYPTODATA</>
 
-## Introduction
+<h3>Introduction</h3>
 
-My plan is to make the graduation project the first step towards a much bigger work in progress project of extensive analysis and prediction of the preformance of different cryptocurrencies
+I am a student blockchain developer, I am hoping to graduate next spring. My plan is to make this Code Louisville graduation project the first step towards a much bigger work in progress project of extensive analysis and prediction of the preformance of different cryptocurrencies. I chose to make the project include more than jupyter notebook file, each file is relatively small and covers one feature of the future comprehensive project
 
-Starting a graduation project for Code louisville May 22 class (Data Analysis-2). The project will include the following features hoping to meet or exede the requirement of a passing graduation project:
+The project will include the following features hoping to meet or exeed the requirements of a passing graduation project:
 
-1. Read TWO data sets in with an API or Import and combine 2 csv files
- the first API is forex-python (https://pypi.org/project/forex-python/) where I get bitcoin data
-2. Clean data and perform a pandas merge
-3. Make a Tableau dashboard to display data
-4. Utilize a virtual environment
+<h4>1. LOADING DATA </h4>
+Read 2 dataset with an API.
+The first API is forex-python (https://pypi.org/project/forex-python/) where I get bitcoin data, the second API is yfinance API (https://pypi.org/project/yfinance/)
+ 
+<h4>2. CLEANING DATA</h4> 
+Cleaning data and perform a pandas merge
+
+<h4>3. VISUALIZE / PRESENT DATA</h4>
+Make 3 matplotlib, pandas and seaborn visualizations to display data
+
+<h4>4. UTILIZE A VIRTUAL ENVIRONMENT</h4>
+I used the following code to create and use a virutal environment: <br>
+
+<blockquote>
+<code><br>
+#create environment named venv<br>
+python -m venv venv
+
+#activate environment
+venv\scripts\activate
+
+install project packages and dependencies
+
+#create a requirements.txt file
+pip freeze > requirements.txt
+
+#deactivate environment each time after working on the project
+deactivate
+ 
+</code>
+</blockquote>
+
    
 Those features may change or get adjusted in the future as the project progresses, I will make sure to mention the changes if any in this readme file
 
