@@ -87,9 +87,9 @@ I would like to thankmy mentors for their great effort they made to help us. I l
 
 <h4><b>MY IDEAS AND PLANS FOR FUTURE EXPANSIONS</b></h4>
 <ol>
-<li>Studying and adding trading technical analysis indicators so the project become a smart and reliable crypto trading helper tool</li>
-<li>Adding automation features so the project can be used as a trading bot</li>
-<li>Add machine learning capability so it can be used to test different trading strategies</li>
+<li>Examining and adding different trading technical analysis indicators so that the project becomes a smart and reliable crypto trading helper tool</li>
+<li>Adding automation features so that the project can be used as a trading bot</li>
+<li>Adding machine learning capability so it can be used to test different trading strategies</li>
 <li>The project will stay open to any future ideas, suggestions and upgrades </li>
 </ol>
 
