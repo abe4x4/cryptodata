@@ -19,7 +19,6 @@ Make 3 matplotlib, pandas and seaborn visualizations to display data
 <h4>4. UTILIZE A VIRTUAL ENVIRONMENT</h4>
 I used the following code to create and use a virutal environment: <br>
 
-<code><br>
 <i>#create environment named venv</i><br>
 python -m venv venv<br>
 
@@ -34,8 +33,7 @@ pip freeze > requirements.txt<br>
 <i>#deactivate environment each time after working on the project</i><br>
 deactivate<br>
  
-</code>
-<b>The content of requirements.txt file </b><br>
+<b>The contents of requirements.txt file </b><br>
 bokeh==2.4.3<br>
 certifi==2022.6.15<br>
 charset-normalizer==2.1.0<br>
@@ -70,13 +68,3 @@ urllib3==1.26.11<br>
 yfinance==0.1.74<br>
 zope.interface==5.4.0<br>
 
-
-   
-Those features may change or get adjusted in the future as the project progresses, I will make sure to mention the changes if any in this readme file
-
-I had the general idea of the project in my mind but working on the project itself was delayed due to unusual heavy work load. I decided to document the progress 
-of the project in a chronological steps::
-
- * 07-24-22 
-1. Reviewed some youtube virtual environment videos and I was able to create the virtual enviroment of the project
-2. Created gitignore folder using github python template
