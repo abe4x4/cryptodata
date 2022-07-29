@@ -1,5 +1,11 @@
 <h1>CRYPTODATA</>
 
+<p align="center">
+  <img src="assets/coinz.png" width="400">
+</p>
+
+<img> <src="assets/coinz.png" width ="500" height=500 >
+
 <h3>Introduction</h3>
 
 I am a student blockchain developer, I am hoping to graduate next spring. My plan is to make this Code Louisville graduation project the first step towards a much bigger work in progress project of extensive analysis and prediction of the preformance of different cryptocurrencies. I chose to make the project include more than jupyter notebook file, each file is relatively small and covers one feature of the future comprehensive project
