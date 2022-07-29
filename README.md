@@ -79,7 +79,7 @@ yfinance==0.1.74<br>
 zope.interface==5.4.0<br>
 
 <h4> EXTRA POINTS </h4>
-My code is written using jupyter lab format, I wrote as much comments as possible. I used markdown cells and added text formating.
+My code is written using jupyter lab format, I wrote as much comments as possible. I used markdown cells and added text formating. I also created a gitignore folder to keep files with sensitive info and other files that do not need to be available for the public
 
 <h4> FINAL COMMENTS </h4>
 The project is simple but it is a work in progress and the first lego piece in a much bigger more advanced project that I am hoping to use the complete project as the graduation project of my blockchain developper bootcamp. <br>
