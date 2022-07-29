@@ -78,3 +78,10 @@ urllib3==1.26.11<br>
 yfinance==0.1.74<br>
 zope.interface==5.4.0<br>
 
+<h4> EXTRA POINTS </h4>
+My code is written using jupyter lab format, I wrote as much comments as possible. I used markdown cells and added text formating.
+
+<h4> FINAL COMMENTS </h4>
+The project is simple but it is a work in progress and the first leggo piece in a much bigger more advanced project that I am hoping to use the complete project as the graduation project of my blockchain developper bootcamp. <br>
+I would like to thankmy mentors for their great effort they made to help us. I liked their new innovative methods they used to present the material. I am also grateful to every person in Code Louisville staff
+
