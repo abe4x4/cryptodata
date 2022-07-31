@@ -1,12 +1,12 @@
 
 
 <p align="center">
-
-
-  <img src="assets/coinz.png" width="400">
-  <br>
-<h1>CRYPTODATA</>
   
+  <img src="assets/coinz.png" width="400">
+</p>
+
+<p align="center">
+  <h1>CRYPTODATA</h1>
 </p>
 
 
